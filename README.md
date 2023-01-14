@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jonasbk808s
 - 👀 I’m interested in mobile development (Android and IOS)
 - 🌱 I’m currently learning Java and Javascript
-- 💞️ I’m looking to collaborate on a app development project 
+- 💞️ I’m looking to collaborate on an app development project 
 - 📫 How to reach me https://www.linkedin.com/in/azubuike-jonas-barbosa-abofor-0b878915b/
 
 <!---
